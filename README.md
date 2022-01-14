@@ -6,7 +6,8 @@ Change the server_ip variable
 This assumes that the WireGuard VPN server IP is at 192.168.8.1.
 And the range is 192.168.8.1/24
 
-Run exemple: 
+Run exemple:
+
 ./generate_clients.sh client_test 2
 
 The script also assumes Full Tunnel. 
