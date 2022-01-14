@@ -1,1 +1,1 @@
-[PUBLIC_KEY - run ]
+[PUBLIC_KEY - to generate one run - cat privatekey | wg pubkey > pubkey]
