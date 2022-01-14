@@ -1,6 +1,6 @@
 #!/bin/bash
 
-server_ip="192.168.1.4"
+server_ip="192.168.8.1"
 client_name=$1
 ip_last_octet=$2
 
