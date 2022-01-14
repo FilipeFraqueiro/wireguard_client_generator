@@ -1,2 +1,3 @@
-# wireguard_client_generator
+# Wireguard Client Generator
 Generate a Wireguard Client
+
